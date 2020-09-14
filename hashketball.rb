@@ -1,4 +1,5 @@
-game_hash = {
+def game_hash  
+{
   :home => {
     :team_name => {}
     :colors => {}
@@ -10,4 +11,5 @@ game_hash = {
     :players => {}
     
   }
-}  
+} 
+end
